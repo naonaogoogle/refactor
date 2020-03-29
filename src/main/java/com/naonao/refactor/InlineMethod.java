@@ -1,5 +1,8 @@
 package com.naonao.refactor;
 
+/**
+ * 内联函数
+ */
 public class InlineMethod {
     private int numberOfLateDeliveries;
 
